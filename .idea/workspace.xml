@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed8a84ec-ab5c-447d-bfcb-c2e392d4ef02" name="Default Changelist" comment="" />
+    <list default="true" id="ed8a84ec-ab5c-447d-bfcb-c2e392d4ef02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tmall/bean/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/bean/ProductImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/util/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tmall/dao/CategoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tmall/dao/CategoryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WF8evWtg4qUuOw4qqIKGb6zAQa" />
   <component name="ProjectViewState">
@@ -33,6 +46,7 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tmall.dao" />
+      <recent name="tmall.bean" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -59,6 +73,8 @@
       <updated>1578734080745</updated>
       <workItem from="1578734087813" duration="1549000" />
       <workItem from="1578743781227" duration="6588000" />
+      <workItem from="1578797241223" duration="6799000" />
+      <workItem from="1578898571772" duration="6880000" />
     </task>
     <servers />
   </component>
@@ -66,14 +82,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1578744228864">
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1578899086889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578744228864" />
-    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578745196899">
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578899086889" />
+    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578821258459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578745196899" />
+    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578821258459" />
     <state x="890" y="156" key="FileChooserDialogImpl" timestamp="1578735197277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
