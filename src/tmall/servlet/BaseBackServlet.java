@@ -1,6 +1,7 @@
 package tmall.servlet;
 
 import tmall.dao.CategoryDAO;
+import tmall.dao.UserDAO;
 import tmall.util.Page;
 
 import javax.servlet.http.HttpServlet;
@@ -15,4 +16,5 @@ public abstract class BaseBackServlet extends HttpServlet {
     public abstract String list(HttpServletRequest request, HttpServletResponse response, Page page);
 
     protected CategoryDAO categoryDAO= new CategoryDAO();
+    protected UserDAO userDAO = new UserDAO();
 }
