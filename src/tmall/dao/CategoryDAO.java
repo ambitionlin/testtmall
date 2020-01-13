@@ -1,10 +1,13 @@
 package tmall.dao;
 
+import tmall.bean.Category;
+import tmall.util.DBUtil;
 import tmall.util.Page;
 
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
+
 
 public class CategoryDAO {
     public int getTotal(){
