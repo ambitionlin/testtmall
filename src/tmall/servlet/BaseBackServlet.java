@@ -1,6 +1,7 @@
 package tmall.servlet;
 
 import tmall.dao.CategoryDAO;
+import tmall.dao.PropertyDAO;
 import tmall.dao.UserDAO;
 import tmall.util.Page;
 
@@ -17,4 +18,6 @@ public abstract class BaseBackServlet extends HttpServlet {
 
     protected CategoryDAO categoryDAO= new CategoryDAO();
     protected UserDAO userDAO = new UserDAO();
+    protected PropertyDAO propertyDAO = new PropertyDAO();
+
 }
