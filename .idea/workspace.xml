@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed8a84ec-ab5c-447d-bfcb-c2e392d4ef02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tmall/bean/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmall/dao/PropertyDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/dao/ProductImageDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/util/DateUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" afterDir="false" />
     </list>
@@ -40,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="tmall.util" />
       <recent name="tmall.dao" />
       <recent name="tmall.bean" />
     </key>
@@ -71,6 +73,8 @@
       <workItem from="1578797241223" duration="6799000" />
       <workItem from="1578898571772" duration="6880000" />
       <workItem from="1579176289661" duration="5258000" />
+      <workItem from="1579243650576" duration="396000" />
+      <workItem from="1579244081727" duration="16830000" />
     </task>
     <servers />
   </component>
@@ -82,10 +86,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579177931958" />
-    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578821258459">
+    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579253050879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578821258459" />
+    <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579253050879" />
     <state x="890" y="156" key="FileChooserDialogImpl" timestamp="1578735197277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -94,5 +98,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578735202334" />
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579244188886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579244188886" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579263657341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579263657341" />
   </component>
 </project>
