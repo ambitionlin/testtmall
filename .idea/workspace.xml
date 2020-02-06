@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed8a84ec-ab5c-447d-bfcb-c2e392d4ef02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tmall/bean/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmall/dao/PropertyValueDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/servlet/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/servlet/PropertyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tmall/util/ImageUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listCategory.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmall" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -77,6 +81,9 @@
       <workItem from="1579436379555" duration="4789000" />
       <workItem from="1579520477515" duration="5717000" />
       <workItem from="1579526370204" duration="17000" />
+      <workItem from="1579610286390" duration="600000" />
+      <workItem from="1580912026190" duration="689000" />
+      <workItem from="1580957301296" duration="15871000" />
     </task>
     <servers />
   </component>
@@ -84,18 +91,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1579520768092">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580990837234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579520768092" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580990837234" />
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1580973757659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580973757659" />
     <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579253050879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579253050879" />
-    <state x="890" y="156" key="FileChooserDialogImpl" timestamp="1578735197277">
+    <state x="890" y="156" key="FileChooserDialogImpl" timestamp="1580973498629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="890" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578735197277" />
+    <state x="890" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580973498629" />
     <state x="498" y="0" key="SettingsEditor" timestamp="1578735202334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -104,6 +115,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579244188886" />
+    <state x="51" y="190" key="run.anything.popup" timestamp="1580960044893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="51" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580960044893" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579314277622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
