@@ -11,6 +11,13 @@ import java.util.List;
 import java.util.Date;
 
 public class OrderDAO {
+    public static String waitConfirm;
+    public static String waitPay;
+    public static String waitDelivery;
+    public static String waitReview;
+    public static String finish;
+    public static String delete;
+
     public int getTotal(){
         int total = 0;
         try(Connection c = DBUtil.getConnection(); Statement s = c.createStatement();){
