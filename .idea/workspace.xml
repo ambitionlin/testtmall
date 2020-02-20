@@ -2,22 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed8a84ec-ab5c-447d-bfcb-c2e392d4ef02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tmall/filter/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmall/servlet/CategoryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmall/servlet/PropertyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmall/util/ImageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tmall/servlet/BaseBackServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/admin/listCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/bought.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/bought.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/categoryMenu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/categoryMenu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/confirmPay.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/confirmPay.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/editProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/editProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/editProductValue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/editProductValue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/editProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/editProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/homepageCategoryProducts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/homepageCategoryProducts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/imgAndInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/imgAndInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listOrder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listOrder.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listProductImage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listProductImage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listProperty.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listProperty.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/listUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/listUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/modal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/modal.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/orderConfirmedPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/orderConfirmedPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/payed.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/payed.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productReview.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productReview.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productsAsideCategorys.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productsAsideCategorys.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productsByCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productsByCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/productsBySearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/productsBySearch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/reviewPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/reviewPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/searchResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/searchResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/searchResultPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/searchResultPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/simpleSearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/simpleSearch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/sortBar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/sortBar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/include/admin/adminFooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/include/admin/adminFooter.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -25,16 +56,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IntelliJConfiguration">
+    <option name="PROPERTY_FILES">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="REMOVE_NBSP" value="true" />
+    <option name="CREATE_NEW_JSP" value="true" />
+    <option name="KEY_RESOLUTION_TYPE" value="Use all words in label" />
+    <option name="PROMPT_FOR_KEY_PREFIX" value="false" />
+    <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
+    <option name="LABEL_PART_2" value="&quot;/&gt;" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1WF8evWtg4qUuOw4qqIKGb6zAQa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -83,7 +134,9 @@
       <workItem from="1579526370204" duration="17000" />
       <workItem from="1579610286390" duration="600000" />
       <workItem from="1580912026190" duration="689000" />
-      <workItem from="1580957301296" duration="15871000" />
+      <workItem from="1580957301296" duration="16134000" />
+      <workItem from="1581049787463" duration="24230000" />
+      <workItem from="1581127049234" duration="16248000" />
     </task>
     <servers />
   </component>
@@ -95,14 +148,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580990837234" />
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1580973757659">
+    <state x="502" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581501601482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580973757659" />
+    <state x="502" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581501601482" />
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1581345950386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="912" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581345950386" />
     <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579253050879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="845" y="220" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579253050879" />
+    <state x="548" y="245" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1581416847159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="245" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1581416847159" />
     <state x="890" y="156" key="FileChooserDialogImpl" timestamp="1580973498629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -111,6 +172,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578735202334" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1581772776174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581772776174" />
     <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579244188886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -119,9 +184,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="51" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580960044893" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579314277622">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581502599398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579314277622" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581502599398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/admin/listCategory.jsp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
